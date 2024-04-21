@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../my-react-app"
+		},
+		{
+			"path": "../../projet de coding"
+		},
+		{
+			"path": "../../wild-restaurant"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../WildTrivia"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projet de coding"
+	}
+}
